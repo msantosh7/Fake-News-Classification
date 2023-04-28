@@ -1,8 +1,15 @@
 # fake-news-classification
 
-Group members: 
-1. Kaylee Rosendahl - A20459375
-2. Venkata Santosh Naidu Mummidi - A20514071
+Introduction: 
+
+Social media has become one of the major resources for people to obtain news and information. However, large volumes of fake news or misinformation are produced online for a variety of purposes. The extensive spread of fake news/misinformation can have a serious negative impact on individuals and society. Therefore, it is important to detect fake news and misinformation in social media. 
+
+What this project does: 
+
+Given the title of a fake news article A and the title of a coming news article B, this model classifies B into one of the three categories:
+• agreed: B talks about the same fake news as A.
+• disagreed: B refutes the fake news in A.
+• unrelated: B is unrelated to A.
 
 Contents: 
 
