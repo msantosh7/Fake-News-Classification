@@ -12,6 +12,8 @@ Given the title of a fake news article A and the title of a coming news article 
 2. disagreed: B refutes the fake news in A.
 3. unrelated: B is unrelated to A.
 
+Model used: We used Linear Support Vector Classification with an oversampling SMOTE technique to account for the unbalanced labels yielded the best results, with a 74% accuracy rate and weighted F1 score.
+
 Contents: 
 
 1. preprocess.py - Source code for preprocessing
