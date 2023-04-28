@@ -7,9 +7,10 @@ Social media has become one of the major resources for people to obtain news and
 What this project does: 
 
 Given the title of a fake news article A and the title of a coming news article B, this model classifies B into one of the three categories:
-• agreed: B talks about the same fake news as A.
-• disagreed: B refutes the fake news in A.
-• unrelated: B is unrelated to A.
+
+1. agreed: B talks about the same fake news as A.
+2. disagreed: B refutes the fake news in A.
+3. unrelated: B is unrelated to A.
 
 Contents: 
 
